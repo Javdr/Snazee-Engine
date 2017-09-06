@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <sourceRoots>
+      <file path="$PROJECT_DIR$/Engine/Include" />
+      <file path="$PROJECT_DIR$/Engine/Source" />
+      <file path="$PROJECT_DIR$/Game/Include" />
+      <file path="$PROJECT_DIR$/Game/Source" />
+      <file path="$PROJECT_DIR$/Tests/Include" />
+      <file path="$PROJECT_DIR$/Tests/Source" />
+    </sourceRoots>
+  </component>
 </project>
